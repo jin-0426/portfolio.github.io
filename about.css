@@ -2,6 +2,10 @@
   margin: 0;
   padding: 0;
 }
+.arca a{
+  text-decoration: none;
+  color: white;
+}
 header img{
   max-height: 800px;
   width: 100%;
