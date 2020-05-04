@@ -100,10 +100,15 @@ li{
   margin-right: 4px;
   padding: 0 4px;
 }
-header a:hover{
+
+.aaaa{
+  text-decoration: none;
   color: black;
 }
-header a{
+.aaa:hover{
+  color: black;
+}
+.aaa{
   text-decoration: none;
   color: grey;
 }
