@@ -1,0 +1,17 @@
+@media all and (max-width:650px){
+  .text{
+    columns: 1;
+  }
+  .jt,.et{
+    text-align: center;
+    padding: 0;
+  }
+  .et{
+    padding-top: 50px;
+  }
+}
+
+@media all and (max-width: 330px){
+  .three li{
+    padding: 20px 5px;
+}
