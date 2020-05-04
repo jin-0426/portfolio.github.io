@@ -83,6 +83,9 @@ header img{
   font-size: 26px;
   margin-left: 10px;
 }
+.mail a{
+  color: grey;
+  }
 .copyright{
   margin-top: 30px;
   text-align: center;
